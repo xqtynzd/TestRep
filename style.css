@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  height: 100vh;
+  background-image: url(background2.jpg);
+  background-size:contain;
+}
+.head{
+  margin: 0px;
+  display: inline;
+  position: fixed;
+  top: 0%;
+  background-color: #3F4FFF;
+  height: fit-content;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-weight: 620;
+  border-radius: 0px 0px 16px 16px;
+}
+p{
+  margin: 0px;
+}
+.below{
+  
+}
+ .future{
+   margin-left: 25%;
+   padding-bottom: 40px;
+   width: 190px;
+ }
+.title{
+  padding: 0px;
+  font-size: 32px;
+  font-weight: 100;
+}
+ .intro{
+  background-color: #3F4FFF;
+  justify-self: center;
+  height: fit-content;
+  text-align: justify;
+  color: white;
+  border-radius: 24px 24px 24px 24px;
+  padding: 20px 15px 20px 15px;
+ }
+  .nuero{
+  background-color: #3F4FFF;
+  justify-self: center;
+  height: fit-content;
+  text-align: justify;
+  color: white;
+  border-radius: 24px 24px 24px 24px;
+  padding: 20px 15px 20px 15px;
+ }
+  .ending{
+   background-color: #3F4FFF;
+   justify-self: center;
+   height: fit-content;
+   text-align: justify;
+   color: white;
+   border-radius: 24px 24px 24px 24px;
+   padding: 20px 15px 20px 15px;
+}
+.link{
+  border: 2px solid #42445A;
+  height: 60px;
+  position: fixed;
+  bottom: -5%;
+  list-style-type: none;
+  display: flex;
+  gap: 70px;
+  background-color: #fff;
+  font-size: 40px;
+  font-weight: 600;
+  justify-self: center;
+  justify-items: center;
+  border-radius: 24px;
+  box-shadow: 2px 2px 0 #00000082;
+  padding-right: 25px ;
+}
+.link a{
+  text-decoration: none;
+  padding-right: 10px;
+  color: black;
+  font-family: cursive;
+  border-right: 2px solid #818181DB;
+}
+#contact{
+  border: none;
+}
